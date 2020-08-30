@@ -1,0 +1,62 @@
+  .body {
+        font-family: Larsseit, sans-serif;
+        background-color: rgb(11, 20, 117);
+      }
+      header{
+          margin-bottom: 60px;
+      }
+      .hostBtn{
+        text-align:right;
+      }
+      .logo{
+        text-align:left;
+      }
+                 
+      
+      div.row {
+        text-align: center;
+        color:white;   
+      }
+      .buttomLogo {
+        display: block;
+        color:white;   
+      }
+      a.nav-link{
+        display: inline;
+        color:white;   
+      }
+
+
+      
+      
+
+
+
+
+      .about{  
+        height:950px; 
+        text-align: center;
+        font-size: 70px;
+        
+        
+      }
+      .about h3{
+         margin: 30px;
+          
+      }.about h1{
+         margin-bottom: 50px;
+          font-size: 60px;
+      }
+      .aboutText{
+          padding: 15%;
+      }
+
+      .footer{     
+        vertical-align: middle;
+        height:150px; 
+        font-size: 20px;
+      }
+
+      .footer a{
+        margin:20px;
+      }
